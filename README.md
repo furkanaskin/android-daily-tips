@@ -9,6 +9,18 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### [#181 Sequence](/codes/Sequence.kt)
+![alt text](/screenshots/Sequence.png)
+
+### [#180 Providing Build Config Fields on Multi-Dimensional Flavor Types](/codes/MultiDimensionalFlavorConfigFields.gradle)
+![alt text](/screenshots/MultiDimensionalFlavorConfigFields.png)
+
+### #179 Bitmap Extension
+![alt text](/screenshots/BitmapExtension.png)
+
+### #178 BuildScript vs Allprojects
+![alt text](/screenshots/BuildscriptVsAllprojects.png)
+
 ### [#177 Transient Annotation](/codes/Transient.kt)
 ![alt text](/screenshots/Transient.png)
 
